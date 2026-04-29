@@ -1,0 +1,9 @@
+{
+  "topics": [
+    {
+      "name": "Polity",
+      "slug": "polity",
+      "exam_api": "topics/polity.json"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "topic": "polity",
+  "exams": {
+  "Basics of Constitution":   [
+    {
+      "title": "Basics Of Constitution PART-1",
+      "slug": "basics-of-constitution-part-1",
+      "question_file": "questions/polity/basics-of-constitution-part-1.json"
+    },
+    {
+      "title": "Basics Of Constitution PART-2",
+      "slug": "basics-of-constitution-part-2",
+      "question_file": "questions/polity/basics-of-constitution-part-2.json"
+    },
+    {
+      "title": "Basics Of Constitution PART-3",
+      "slug": "basics-of-constitution-part-3",
+      "question_file": "questions/polity/basics-of-constitution-part-3.json"
+    },
+    {
+      "title": "Basics Of Constitution PART-4",
+      "slug": "basics-of-constitution-part-4",
+      "question_file": "questions/polity/basics-of-constitution-part-4.json"
+    }
+  ]
+}
+}
