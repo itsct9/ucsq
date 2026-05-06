@@ -22,6 +22,30 @@
       "slug": "basics-of-constitution-part-4",
       "question_file": "questions/polity/basics-of-constitution-part-4.json"
     }
+  ],
+  "Legislature":   [
+    {
+      "title": "Legislature PART-1",
+      "slug": "legislature-part-1",
+      "question_file": "questions/polity/legislature-part-1.json"
+    },
+    {
+      "title": "Legislature PART-2",
+      "slug": "legislature-part-2",
+      "question_file": "questions/polity/legislature-part-2.json"
+    },
+    {
+      "title": "Legislature PART-3",
+      "slug": "legislature-part-3",
+      "question_file": "questions/polity/legislature-part-3.json"
+    }
+  ],
+  "System of Government":   [
+    {
+      "title": "System Of Government",
+      "slug": "system-of-government",
+      "question_file": "questions/polity/system-of-government.json"
+    }
   ]
 }
 }
