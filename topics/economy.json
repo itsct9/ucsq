@@ -1,0 +1,22 @@
+{
+  "topic": "economy",
+  "exams": {
+  "Basics of Economics":   [
+    {
+      "title": "Basics Of Economics PART-1",
+      "slug": "basics-of-economics-part-1",
+      "question_file": "questions/economy/basics-of-economics-part-1.json"
+    },
+    {
+      "title": "Basics Of Economics PART-2",
+      "slug": "basics-of-economics-part-2",
+      "question_file": "questions/economy/basics-of-economics-part-2.json"
+    },
+    {
+      "title": "Basics Of Economics PART-3",
+      "slug": "basics-of-economics-part-3",
+      "question_file": "questions/economy/basics-of-economics-part-3.json"
+    }
+  ]
+}
+}
